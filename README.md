@@ -5,7 +5,7 @@ Fabulotheca (https://fabulotheca.org/en) is a search service over a scholarly co
 ## Connect
 It is a remote MCP server (Streamable HTTP). Each user gets a **personal URL** of the form `https://fabulotheca.org/mcp/<personal-key>` (the key acts as the password).
 
-1. Apply at https://fabulotheca.org/apply (short form, free access for researchers, students and librarians).
+1. Apply at https://fabulotheca.org/apply (short form).
 2. You receive the personal link in your account.
 3. Add it as a custom connector / remote MCP server in your AI client — step-by-step guides: https://fabulotheca.org/connect
 
